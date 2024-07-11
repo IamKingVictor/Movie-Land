@@ -3,7 +3,7 @@ import "./index.css";
 import searchIcon from "./search.svg";
 import MovieCard from "./MovieCard";
 
-const API_URL = "http://www.omdbapi.com?apikey=6980e23";
+const API_URL = "https://www.omdbapi.com?apikey=6980e23";
 
 const movie1 = {
   Title: "Batman v Superman: Dawn of Justice (Ultimate Edition)",
